@@ -4,8 +4,8 @@
 #include<semaphore.h>
 struct lot
 {
-    int arv_time;
-    int burst_time;
+    int arv_time
+    int burst_time;
     int lottery_val;
 
 }s[10];
